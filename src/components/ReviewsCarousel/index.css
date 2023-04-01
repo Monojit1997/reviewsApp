@@ -1,0 +1,32 @@
+/* Write your code here */
+.bg-container {
+  background-image: url(https://assets.ccbp.in/frontend/react-js/reviews-bg.png);
+  background-size: cover;
+  height: 100vh;
+  padding: 15px;
+}
+.card-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.profile-container {
+  padding: 10px;
+  display: flex;
+}
+.profile {
+  text-align: center;
+}
+.button {
+  align-self: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: roboto;
+}
+.description {
+  color: #171f46;
+  font-family: roboto;
+}
